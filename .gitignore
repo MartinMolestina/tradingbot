@@ -1,3 +1,11 @@
 # keys file with personal keys
 keys.txt
 project_env/
+.env
+NB_01_Intro_API_updated.ipynb
+NB_01_Strategy_Introduction.ipynb
+NB_02_Optimization_Forward_Testing.ipynb
+NB_02_Spot_Testnet_API_Updated.ipynb
+NB_03_Financial_Data_Analysis.ipynb
+NB_03_Implementation_Updated.ipynb
+NB_04_Long_Short_Updated.ipynb
